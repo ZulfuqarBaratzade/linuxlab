@@ -1,0 +1,9 @@
+#create archive
+tar -cvzf "archive_name" file1 file2
+
+
+
+#extract archive
+
+
+tar -xvzf "archive.gz"
